@@ -5,21 +5,21 @@ favicon: /favicon.ico
 menu:
     Index: /
     Archives: /archives
+    Tags: /tags
+    Categories: /categories
 
 # Nav Shortcut Icons
 nav_icons:
-    - ['/images/github.svg', 'https://github.com/AngryPowman']
+    - ['/images/github.svg', 'https://github.com/narutohinata']
     - ['/images/rss.svg', '/atom.xml']
 
 # Friend Links
 friend_links:
-    - ['AngryPowman', 'This is a link', 'http://powman.org']
-    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
-
+    - ['narutohinata', 'This is a link', 'https://narutohinata.github.io/']
 
 # About
 about_info:
-    name: "AngryPowman"
+    name: "Chromer"
     bio: "十年饮冰·难凉热血"
     avatar: "/images/avatar.png"
 
@@ -33,4 +33,4 @@ google_analytics: angrypowman
 tencent_analytics: 
  
 # Copyright Infomation
-startyear: 2017
+startyear: 2021
