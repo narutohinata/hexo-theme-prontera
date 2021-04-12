@@ -20,16 +20,15 @@ friend_links:
 # About
 about_info:
     name: "Chromer"
-    bio: "十年饮冰·难凉热血"
     avatar: "/images/avatar.png"
 
 # Comment
 # e.g disqus: seansun
-disqus: angrypowman
+disqus: narutohinata
 duoshuo: 
 
 # Analytics
-google_analytics: angrypowman
+google_analytics: Chromer
 tencent_analytics: 
  
 # Copyright Infomation
